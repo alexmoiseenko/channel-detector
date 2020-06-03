@@ -24,6 +24,4 @@ if (!currentBranch && currentTag) {
     channel = currentBranch.channel
 }
 
-console.log('channel', channel)
-
 core.exportVariable('RELEASE_CHANNEL', channel);
