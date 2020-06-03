@@ -1,0 +1,5 @@
+name: 'Channel Detector'
+description: 'Detect of release channel'
+runs:
+  using: 'node12'
+  main: 'index.js'
