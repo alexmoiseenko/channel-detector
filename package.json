@@ -9,7 +9,7 @@
   "author": "Aleksey Moiseenko",
   "license": "ISC",
   "devDependencies": {
-    "@actions/core": "1.1.0",
+    "@actions/core": "1.2.6",
     "@actions/github": "^2.2.0"
   }
 }
